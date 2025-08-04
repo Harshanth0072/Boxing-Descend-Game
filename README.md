@@ -1,12 +1,44 @@
-# React + Vite
+🥊 Boxing Ascend - Browser Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Boxing Ascend, a dynamic browser-based bocing game built with React and Vite where the player starts as a YouTube boxer and climb the way through 15 thrilling missions to face the ultimate boss DMITRY Bivol.
 
-Currently, two official plugins are available:
+ Running the Game Locally
+bash
+Copy
+Edit
+# 1. Clone the repo
+git clone https://github.com/yourusername/boxing-ascend.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 2. Navigate in
+cd boxing-ascend
 
-## Expanding the ESLint configuration
+# 3. Install dependencies
+npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 4. Start the dev server
+npm run dev
+
+# Upcoming Features
+ Punch accuracy + stamina bar
+
+ Smarter AI with dodging and combo logic
+
+ Boxer skins and unlockable outfits
+
+ Mission screen + rewards system
+
+ Local storage save system
+
+ Background music + sound FX
+
+ Contributing
+Pull requests are welcome! If you have creative ideas for boxers, missions, or mechanics, feel free to fork the repo and build on top.
+
+👨‍💻 Developer
+Harshanth Dev
+GitHub | Portfolio | LinkedIn
+
+ If you like this project...
+Give it a star! It helps more people discover and play it. 
+Or fork it to add your own fighters, animations, or ideas.
+
